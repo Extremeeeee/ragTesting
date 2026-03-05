@@ -1,6 +1,6 @@
 # Test Project
 
-To je testni projekt za preverjanje strukture README datoteke.
+To je projekt za kaudata rag testiranje
 
 ## Opis
 Ta projekt služi kot primer, kako napisati osnovni README za GitHub ali drug repozitorij.
