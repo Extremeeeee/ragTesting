@@ -1,6 +1,6 @@
 # Test Project
 
-To je projnekt za testiranje a je alen pameten al ne
+To je projekt je namenjen testiranuj alenovih sposobnosti.
 
 ## Opis
 
