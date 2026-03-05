@@ -1,9 +1,9 @@
 # Test Project
 
-To je projekt za kaudata rag testiranje
+To je projnekt za testiranje sprmeemb v chunkih v rag
 
 ## Opis
-Ta projekt služi kot primer, kako napisati osnovni README za GitHub ali drug repozitorij.
+
 
 ## Namestitev
 1. Kloniraj repozitorij:
