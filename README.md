@@ -1,6 +1,6 @@
 # Test Project
 
-To je projnekt za testiranje sprmeemb v chunkih v rag
+To je projnekt za testiranje a je alen pameten al ne
 
 ## Opis
 
